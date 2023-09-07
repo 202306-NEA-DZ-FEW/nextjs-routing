@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "First post",
+      "body": "lorem ipsum dolor sit amet etc"
+    },
+    {
+      "id": 2,
+      "title": "Second post",
+      "body": "lorem ipsum dolor sit amet etc"
+    },
+    {
+      "id": 3,
+      "title": "Third post",
+      "body": "lorem ipsum dolor sit amet etc"
+    },
+    {
+      "id": 4,
+      "title": "Fourth post",
+      "body": "lorem ipsum dolor sit amet etc"
+    },
+    {
+      "id": 5,
+      "title": "Fifth post",
+      "body": "lorem ipsum dolor sit amet etc"
+    }
+  ]
+}
